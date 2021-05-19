@@ -6,7 +6,7 @@
           <!-- logo -->
           <div class="logo">
             <a href="#" class="logo-expanded">
-              <img src="../assets/images/logo@2x.png" width="100%" alt="" />
+              
             </a>
             <a href="#" class="logo-collapsed">
               <img src="../assets/images/logo-collapsed@2x.png" width="40" alt="" />
@@ -127,7 +127,7 @@ export default {
 
     },
     getData() {
-                axios.get('https://raw.githubusercontent.com/PPXTE/webstack/master/src/assets/data.json?token=AKFMTTMIMNSYFVWPIKQHMLLAUSRN4').then(response => {
+                axios.get('https://raw.githubusercontent.com/PPXTE/webstack/master/src/assets/data.json').then(response => {
                    this.items = response.data
                 });
             }
