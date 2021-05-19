@@ -127,7 +127,7 @@ export default {
 
     },
     getData() {
-                axios.get('http://img-serverss.test.upcdn.net//uPic/20210510/data.json').then(response => {
+                axios.get('https://raw.githubusercontent.com/PPXTE/webstack/master/src/assets/data.json?token=AKFMTTMIMNSYFVWPIKQHMLLAUSRN4').then(response => {
                    this.items = response.data
                 });
             }
