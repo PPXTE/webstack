@@ -31,13 +31,13 @@
         "web": [
             {
                 "url": "http://shark.pingpongx.org/",
-                "logo": "assets/images/logos/shark.png",
+                "logo": "assets/images/logos/shark.jpeg",
                 "title": "shark",
                 "desc": "shark 生产"
             },
             {
                 "url": "http://test-shark.pingpongx.org/",
-                "logo": "assets/images/logos/shark.png",
+                "logo": "assets/images/logos/shark.jpeg",
                 "title": "shark",
                 "desc": "shark 开发测试"
             },
