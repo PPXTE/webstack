@@ -46,6 +46,18 @@
                 "logo": "assets/images/logos/gitlab.png",
                 "title": "gitlab",
                 "desc": "PP gitlab "
+            },
+            {
+                "url": "https://ppconfig-admin.pingpongx.com/",
+                "logo": "assets/images/logos/wiki.site.png",
+                "title": "ppconfig",
+                "desc": "PP ppconfig "
+            },
+            {
+                "url": "https://job-admin.pingpongx.com/",
+                "logo": "assets/images/logos/gitlab.png",
+                "title": "PPX-Job",
+                "desc": "PP job "
             }
             
         ]
@@ -78,6 +90,30 @@
                 "title": "FxUMS-HedgingX",
                 "desc": "FxUMS-HedgingX"
             }
+            
+        ]
+    }, {
+        "name": "常用工具",
+        "en_name": "devp",
+        "icon": "linecons-diamond",
+        "web": [
+            {
+                "url": "https://www.json.cn/",
+                "logo": "assets/images/logos/dribbble.png",
+                "title": "json",
+                "desc": "json 格式化"
+            }, {
+                "url": "https://cron.qqe2.com/",
+                "logo": "assets/images/logos/dribbble.png",
+                "title": "cron",
+                "desc": "cron 格式化"
+            }, {
+                "url": "https://tool.lu/timestamp/",
+                "logo": "assets/images/logos/dribbble.png",
+                "title": "时间戳",
+                "desc": "时间戳 格式化"
+            }
+           
             
         ]
     },
