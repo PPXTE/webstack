@@ -31,21 +31,21 @@
         "web": [
             {
                 "url": "http://shark.pingpongx.org/",
-                "logo": "assets/images/logos/dribbble.png",
+                "logo": "assets/images/logos/shark.png",
                 "title": "shark",
                 "desc": "shark 生产"
             },
             {
                 "url": "http://test-shark.pingpongx.org/",
-                "logo": "assets/images/logos/dribbble.png",
+                "logo": "assets/images/logos/shark.png",
                 "title": "shark",
                 "desc": "shark 开发测试"
             },
             {
                 "url": "http://git.pingpongx.org/",
                 "logo": "assets/images/logos/gitlab.png",
-                "title": "JIRA",
-                "desc": "PP JIRA "
+                "title": "gitlab",
+                "desc": "PP gitlab "
             }
             
         ]
